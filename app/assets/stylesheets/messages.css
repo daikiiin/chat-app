@@ -71,7 +71,7 @@ text-decoration: none;
   padding: 20px;
   border: 1px solid darkred;
 }
-.chat-finish{
+.chat-finish a {
  color: darkred;
  text-decoration: none;
 }
@@ -101,7 +101,7 @@ text-decoration: none;
  color: #999;
  padding-left: 10px;
 }
-.right-footer{
+.form{
  background-color: #DDDDDD;
  height: 90px;
  width: 100vw - 300px;
@@ -130,7 +130,7 @@ text-decoration: none;
   margin-left: 15px;
   padding: 0 20px;
 }
-.font-image{
+.form-image{
   font-size: 12px;
   background-color: lightblue;
   color: white;
@@ -141,4 +141,7 @@ text-decoration: none;
 }
 .hidden{
   display: none;
+}
+.field_with_errors {
+  display: contents;
 }
