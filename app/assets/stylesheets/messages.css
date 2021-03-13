@@ -71,7 +71,7 @@ text-decoration: none;
   padding: 20px;
   border: 1px solid darkred;
 }
-.chat-finish{
+.chat-finish a {
  color: darkred;
  text-decoration: none;
 }
