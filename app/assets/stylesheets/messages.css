@@ -130,7 +130,7 @@ text-decoration: none;
   margin-left: 15px;
   padding: 0 20px;
 }
-.font-image{
+.form-image{
   font-size: 12px;
   background-color: lightblue;
   color: white;
@@ -141,4 +141,7 @@ text-decoration: none;
 }
 .hidden{
   display: none;
+}
+.field_with_errors {
+  display: contents;
 }
